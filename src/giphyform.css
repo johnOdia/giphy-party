@@ -1,0 +1,29 @@
+input{
+    height: 34px;
+}
+
+button{
+    height: 40px;
+}
+
+input, button{
+    border-radius: 7px;
+}
+
+#btn1{
+    background-color: #252629;
+    color: #fff;
+}
+
+#btn2{
+    background-color: rgb(211, 42, 42);
+    color: #fff;
+}
+
+#btn1:hover, #btn2:hover{
+    border: 2px solid rgb(38, 38, 121);
+}
+
+h4{
+    color: #fff;
+}
